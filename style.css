@@ -39,3 +39,20 @@ a{
     text-decoration: none;
     display: inline-block;
 }
+.container{
+    max-width: 1180px;
+    margin: auto;
+    padding:var(--padding-inline-section)
+}
+.top-banner{
+    background-image: url(assets/asset\ 32.png);
+    background-size: 300px;
+    background-color: #4fb3d4;
+
+}
+.banner-text{
+       text-align: center;
+       color: white;
+       padding: 15px 30px;
+       font-weight: 400;
+}
